@@ -1,6 +1,6 @@
 <messagebundle>
-  <msg name="Labs_Gadget_Year_View_Title">Year View (busy/free)</msg>
-  <msg name="Labs_Gadget_Year_View_Description">See the whole year at a glance.</msg>
+  <msg name="Labs_Gadget_Year_View_Title">Year View (with events)</msg>
+  <msg name="Labs_Gadget_Year_View_Description">See the whole year</msg>
   <msg name="Labs_Gadget_Year_View_Button">Show Year View</msg>
   <msg name="January">January</msg>
   <msg name="February">February</msg>
